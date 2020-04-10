@@ -1,0 +1,34 @@
+{
+    "questions": [
+    {
+    "question": "Where would you find the Empire State building?",
+    "answers": [
+    "New York",
+    "Los Angeles",
+    "San Francisco",
+    "New Orleans"
+    ],
+    "correctIndex": 0
+    },
+    {
+    "question": "Identify the components of a PC",
+    "answers": [
+    "Processor",
+    "Memory",
+    "Hard Disk",
+    "CD-ROM Drive",
+    "Printer"
+    ],
+    "correctIndex": [0,1,2,3]
+    },
+    {
+    "question": "_______ is a character in the film “The Matrix”",
+    "answers": [
+    "R2D2",
+    "Neo",
+    "Ripley"
+    ],
+    "correctIndex": 1
+    }
+]
+}
