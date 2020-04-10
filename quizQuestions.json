@@ -19,7 +19,7 @@
     "CD-ROM Drive",
     "Printer"
     ],
-    "correctIndex": [0,1,2,3]
+    "correctIndex": ["0","1","2","3"]
     },
     {
     "question": "_______ is a character in the film “The Matrix”",
